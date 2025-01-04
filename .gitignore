@@ -1,0 +1,12 @@
+.idea/
+
+cmake-build-debug/
+
+clang/bin/
+clang/include/
+clang/lib/
+clang/libexec/
+clang/share/
+
+third_party/backward-cpp/
+third_party/googletest/

@@ -1,0 +1,3 @@
+file(GLOB_RECURSE ECOMM_SRC_SOURCES "${PROJECT_SOURCE_DIR}/src/*.cpp")
+
+add_library(ecomm ${ECOMM_SRC_SOURCES})
